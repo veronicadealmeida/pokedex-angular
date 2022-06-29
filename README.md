@@ -4,7 +4,7 @@ Este humilde projeto implementa uma pokedex com auxílio de muitos (mais muitos)
 
 ## Features:
 
-- Por hora, somente visuaizar os 151 primeios pokemons
+- Por hora, somente visuaizar os 151 primeiros pokemons
 
 ## Cursos
 
